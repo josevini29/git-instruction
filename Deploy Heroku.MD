@@ -28,7 +28,7 @@ heroku logs --tail
 heroku open
 ```
 
-#Heroku Clone
+# Heroku Clone
 ```bash
 heroku git:clone -a myapp
 ```
