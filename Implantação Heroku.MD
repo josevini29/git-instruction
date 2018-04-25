@@ -3,7 +3,7 @@
 npm install -g heroku
 heroku login
 ```
-# Deploy
+# Deploy App
 
 ```bash
 git init
