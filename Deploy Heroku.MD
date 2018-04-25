@@ -17,3 +17,18 @@ heroku ps:scale web=1
 heroku logs --tail
 heroku open
 ```
+# Update App
+
+```bash
+git add .
+git commit -m "My Second commit"
+git push heroku master
+heroku ps:scale web=1
+heroku logs --tail
+heroku open
+```
+
+#Heroku Clone
+```bash
+heroku git:clone -a myapp
+```
