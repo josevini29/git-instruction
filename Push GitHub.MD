@@ -1,7 +1,7 @@
 # Para sincronizar o respositorio com o GitHub
 ```bash
-git config –global user.name "josevini29"
-git config –global user.email "josevini29@hotmail.com"
+git config user.name "josevini29"
+git config user.email "josevini29@hotmail.com"
 git init
 git remote add origin https://meu_projeto.git
 git pull origin máster
