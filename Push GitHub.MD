@@ -4,7 +4,7 @@ git config user.name "josevini29"
 git config user.email "josevini29@hotmail.com"
 git init
 git remote add origin https://meu_projeto.git
-git pull origin máster
+git pull origin master
 git add .
 git commit -m "Beta"
 git push origin master
