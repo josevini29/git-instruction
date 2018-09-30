@@ -3,6 +3,11 @@
 npm install -g heroku
 heroku login
 ```
+# Set Environment Variable
+```bash
+heroku config:set NAME=<VALUE>
+```
+
 # Deploy App
 
 ```bash
